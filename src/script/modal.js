@@ -13,4 +13,4 @@ document.addEventListener('keydown', function(event){
     if(isEscKey === true){
         modalWrapper.classList.add('invisible')
     }
-})
+}).
