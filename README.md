@@ -5,4 +5,4 @@ Repositório criado no curso de DOM da [Rocketseat](https://rocketseat.com.br/) 
 ---
 
 ![screenshot](./assets/img/img-1.PNG)
-![screenshot](assets/img/img-2.PNG)
+![screenshot](./assets/img/img-2.PNG)
